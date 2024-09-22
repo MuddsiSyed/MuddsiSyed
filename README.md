@@ -54,7 +54,6 @@ I have hands-on experience with the following tools, categorized by their functi
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Splunk_Enterprise_Certified_Administrator-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Enterprise Certified Administrator Badge" />
 <img src="https://img.shields.io/badge/-Splunk_Core_Certified_Power_User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Core Certified Power User Badge" />
