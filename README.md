@@ -1,16 +1,133 @@
-## Hi there 👋
+# Hello, I'm Syed Muddassir
+<a href="https://linkedin.com/in/syed-muddassir--"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+Welcome to my GitHub repository! I'm Syed Muddassir, a passionate cybersecurity professional with a focus on SOC (Security Operation Centre). This repository showcases my projects, tools, and contributions to the field of cybersecurity.
+
+## Objective
+
+As a cybersecurity professional specializing in Security Operations Center (SOC) operations, my objective is to develop, share, and collaborate on tools and resources that enhance threat detection, incident response, and overall security posture. This repository serves as a platform for showcasing my work in monitoring security events, conducting incident investigations, and implementing automation to streamline SOC processes. Through open-source contributions, I aim to foster collaboration within the cybersecurity community and drive innovation in the field of security operations.
+
+<!--
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+-->
+## Tools
+
+I have hands-on experience with the following tools, categorized by their functionality:
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### SOAR
+<div>
+  <img src="https://img.shields.io/badge/-Cortex_XSOAR-FF6F20?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" alt="Cortex XSOAR Badge" />
+  <img src="https://img.shields.io/badge/-Splunk_SOAR-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk SOAR Badge" />
+</div>
+
+
+### Endpoint
+<div>
+   <img src="https://img.shields.io/badge/-CrowdStrike EDR-000000?&style=for-the-badge&logo=CrowdStrike&logoColor=white" alt="CrowdStrike EDR Badge" />
+</div>
+
+### Vulnerability Management
+<div>
+  <img src="https://img.shields.io/badge/-Nessus-4CBBF3?&style=for-the-badge&logo=Tenable&logoColor=white" alt="Nessus Badge" />
+</div>
+
+### Cloud
+<div>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Badge" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" alt="Azure Badge" />
+</div>
+
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Splunk_Enterprise_Certified_Administrator-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Enterprise Certified Administrator Badge" />
+<img src="https://img.shields.io/badge/-Splunk_Core_Certified_Power_User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Core Certified Power User Badge" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate Badge" />
+</div>
+
+## Projects
+- Splunk Clustered Architecture for Threat Detection and Response
+- SOC Automation Project
+
+Thank you for visiting my GitHub repository! Explore my projects, and let’s work together to strengthen our digital world!
 <!--
 **MuddsiSyed/MuddsiSyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Cybersecurity Professional Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my GitHub repository! I'm [Your Name], a passionate cybersecurity professional with a focus on [specific areas, e.g., threat analysis, penetration testing, incident response]. This repository showcases my projects, tools, and contributions to the field of cybersecurity.
+
+## About Me
+
+- 🔒 **Cybersecurity Specialist** with [X years] of experience in safeguarding information systems.
+- 🎓 [Your Degree] in [Your Field] from [Your University].
+- 🌍 [Any relevant certifications, e.g., CISSP, CEH, CompTIA Security+].
+- 💻 Proficient in [programming languages, tools, or technologies, e.g., Python, Metasploit, Wireshark].
+- 🤝 Active contributor to open-source projects and the cybersecurity community.
+
+## Projects
+
+Here are some of the key projects I have worked on:
+
+### 1. [Project Name]
+- **Description:** Brief overview of what the project is about.
+- **Technologies Used:** [List technologies, e.g., Python, Java, Bash].
+- **Link:** [GitHub link to the project]
+
+### 2. [Project Name]
+- **Description:** Brief overview of what the project is about.
+- **Technologies Used:** [List technologies].
+- **Link:** [GitHub link to the project]
+
+### 3. [Project Name]
+- **Description:** Brief overview of what the project is about.
+- **Technologies Used:** [List technologies].
+- **Link:** [GitHub link to the project]
+
+## Skills
+
+- **Security Tools:** [List tools, e.g., Burp Suite, Nmap, Snort].
+- **Programming Languages:** [List languages, e.g., Python, JavaScript, C++].
+- **Operating Systems:** [List OS, e.g., Linux, Windows].
+- **Frameworks:** [List frameworks, e.g., OWASP, MITRE ATT&CK].
+
+## Blog & Resources
+
+I enjoy sharing knowledge and insights on cybersecurity topics. Check out my blog and resources:
+
+- [Blog Link](#) - Insights on cybersecurity trends, tips, and tutorials.
+- [YouTube Channel](#) - Video tutorials and walkthroughs on various cybersecurity tools and techniques.
+
+## Get in Touch
+
+I’m always open to collaboration and discussions! Feel free to reach out:
+
+- 📧 Email: [your.email@example.com]
+- 🔗 LinkedIn: [Your LinkedIn Profile](#)
+- 🐦 Twitter: [Your Twitter Handle](#)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Thank you for visiting my GitHub repository! Explore my projects, and let’s work together to strengthen our digital world!
+
 -->
