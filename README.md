@@ -5,7 +5,9 @@ Welcome to my GitHub repository! I'm Syed Muddassir, a passionate cybersecurity 
 
 ## Objective
 
-As a cybersecurity professional specializing in Security Operations Center (SOC) operations, my objective is to develop, share, and collaborate on tools and resources that enhance threat detection, incident response, and overall security posture. This repository serves as a platform for showcasing my work in monitoring security events, conducting incident investigations, and implementing automation to streamline SOC processes. Through open-source contributions, I aim to foster collaboration within the cybersecurity community and drive innovation in the field of security operations.
+As a cybersecurity professional specializing in Security Operations Center (SOC) operations, my objective is to demonstrate my expertise in SIEM Implementation, threat detection, incident response, and security automation through practical applications and contributions. This repository serves as a platform for showcasing my work in monitoring security events, conducting incident investigations, and implementing automation to streamline SOC processes. 
+
+I invite you to explore my portfolio to see how I can contribute to enhancing security operations and protecting organizational assets.
 <!--
 ## Skills
 
