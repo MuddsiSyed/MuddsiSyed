@@ -1,4 +1,6 @@
-# Hello, I'm Syed Muddassir
+<div style="background-color: black; color: white; padding: 20px; border-radius: 5px;">
+
+## Hello, I'm Syed Muddassir
 <a href="https://linkedin.com/in/syed-muddassir--"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my GitHub repository! I'm Syed Muddassir, a passionate cybersecurity professional with a focus on SOC (Security Operation Centre). This repository showcases my projects, tools, and contributions to the field of cybersecurity.
@@ -65,6 +67,7 @@ I have hands-on experience with the following tools, categorized by their functi
 - SOC Automation Project
 
 Thank you for visiting my GitHub repository! Explore my projects, and let’s work together to strengthen our digital world!
+</div>
 <!--
 **MuddsiSyed/MuddsiSyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
