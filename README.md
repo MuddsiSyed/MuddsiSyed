@@ -1,5 +1,3 @@
-<div style="background-color: black; color: white; padding: 20px; border-radius: 5px;">
-
 ## Hello, I'm Syed Muddassir
 <a href="https://linkedin.com/in/syed-muddassir--"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -8,7 +6,6 @@ Welcome to my GitHub repository! I'm Syed Muddassir, a passionate cybersecurity 
 ## Objective
 
 As a cybersecurity professional specializing in Security Operations Center (SOC) operations, my objective is to develop, share, and collaborate on tools and resources that enhance threat detection, incident response, and overall security posture. This repository serves as a platform for showcasing my work in monitoring security events, conducting incident investigations, and implementing automation to streamline SOC processes. Through open-source contributions, I aim to foster collaboration within the cybersecurity community and drive innovation in the field of security operations.
-
 <!--
 ## Skills
 
@@ -67,69 +64,3 @@ I have hands-on experience with the following tools, categorized by their functi
 - SOC Automation Project
 
 Thank you for visiting my GitHub repository! Explore my projects, and let’s work together to strengthen our digital world!
-</div>
-<!--
-**MuddsiSyed/MuddsiSyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Cybersecurity Professional Portfolio
-
-Welcome to my GitHub repository! I'm [Your Name], a passionate cybersecurity professional with a focus on [specific areas, e.g., threat analysis, penetration testing, incident response]. This repository showcases my projects, tools, and contributions to the field of cybersecurity.
-
-## About Me
-
-- 🔒 **Cybersecurity Specialist** with [X years] of experience in safeguarding information systems.
-- 🎓 [Your Degree] in [Your Field] from [Your University].
-- 🌍 [Any relevant certifications, e.g., CISSP, CEH, CompTIA Security+].
-- 💻 Proficient in [programming languages, tools, or technologies, e.g., Python, Metasploit, Wireshark].
-- 🤝 Active contributor to open-source projects and the cybersecurity community.
-
-## Projects
-
-Here are some of the key projects I have worked on:
-
-### 1. [Project Name]
-- **Description:** Brief overview of what the project is about.
-- **Technologies Used:** [List technologies, e.g., Python, Java, Bash].
-- **Link:** [GitHub link to the project]
-
-### 2. [Project Name]
-- **Description:** Brief overview of what the project is about.
-- **Technologies Used:** [List technologies].
-- **Link:** [GitHub link to the project]
-
-### 3. [Project Name]
-- **Description:** Brief overview of what the project is about.
-- **Technologies Used:** [List technologies].
-- **Link:** [GitHub link to the project]
-
-## Skills
-
-- **Security Tools:** [List tools, e.g., Burp Suite, Nmap, Snort].
-- **Programming Languages:** [List languages, e.g., Python, JavaScript, C++].
-- **Operating Systems:** [List OS, e.g., Linux, Windows].
-- **Frameworks:** [List frameworks, e.g., OWASP, MITRE ATT&CK].
-
-## Blog & Resources
-
-I enjoy sharing knowledge and insights on cybersecurity topics. Check out my blog and resources:
-
-- [Blog Link](#) - Insights on cybersecurity trends, tips, and tutorials.
-- [YouTube Channel](#) - Video tutorials and walkthroughs on various cybersecurity tools and techniques.
-
-## Get in Touch
-
-I’m always open to collaboration and discussions! Feel free to reach out:
-
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)
-- 🐦 Twitter: [Your Twitter Handle](#)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for visiting my GitHub repository! Explore my projects, and let’s work together to strengthen our digital world!
-
--->
