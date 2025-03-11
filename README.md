@@ -27,13 +27,13 @@ I have hands-on experience with the following tools, categorized by their functi
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
 </div>
 
 ### SOAR
 <div>
   <img src="https://img.shields.io/badge/-Cortex_XSOAR-FF6F20?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" alt="Cortex XSOAR Badge" />
-  <img src="https://img.shields.io/badge/-Splunk_SOAR-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk SOAR Badge" />
+
 </div>
 
 
@@ -50,19 +50,27 @@ I have hands-on experience with the following tools, categorized by their functi
 ### Cloud
 <div>
   <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Badge" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" alt="Azure Badge" />
+
 </div>
 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Splunk_Enterprise_Certified_Administrator-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Enterprise Certified Administrator Badge" />
-<img src="https://img.shields.io/badge/-Splunk_Core_Certified_Power_User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Core Certified Power User Badge" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate Badge" />
+    <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys Vulnerability Management Badge" /> </br>
+<a href="https://arcx.io" target="_blank">
+  <img src="https://media.arcx.io/images/products/CTI101.png" alt="ArcX Logo" style="height: 30px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/ArcX_Cyber_Threat_Intelligence_101-blueviolet" alt="ArcX Cyber Threat Intelligence 101 Badge" style="vertical-align: middle;"/>
+</a> </br>
+<a href="https://www.siemxpert.com" target="_blank">
+  <img src="https://www.siemxpert.com/img/logo/logo.webp" alt="SIEMXpert Logo" style="height: 40px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Certified_SOC_Expert-black?style=for-the-badge&logoColor=white" alt="Certified SOC Expert Badge" style="vertical-align: middle;"/>
+</a>
+
+
+
 </div>
 
 ## Projects
-- <a href="https://github.com/MuddsiSyed/Splunk-Clustered-Architecture-for-Threat-Detection-and-Response/tree/main">Splunk Clustered Architecture for Threat Detection and Response</a>
-- SOC Automation Project
+- <a href="https://github.com/MuddsiSyed/Splunk-Clustered-Architecture-for-Threat-Detection-and-Response/tree/main">Splunk Clustered Architecture on AWS for Security Monitoring</a>
 
 Thank you for visiting my GitHub repository! Explore my projects, and let’s work together to strengthen our digital world!
