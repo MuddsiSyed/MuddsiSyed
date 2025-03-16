@@ -72,5 +72,6 @@ I have hands-on experience with the following tools, categorized by their functi
 
 ## Projects
 - <a href="https://github.com/MuddsiSyed/Splunk-Clustered-Architecture-for-Threat-Detection-and-Response/tree/main">Splunk Clustered Architecture on AWS for Security Monitoring</a>
+- <a href="https://github.com/MuddsiSyed/Active-Directory-Project">Active Directory Project</a>
 
 Thank you for visiting my GitHub repository! Explore my projects, and let’s work together to strengthen our digital world!
