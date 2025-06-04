@@ -231,7 +231,7 @@ I'm always excited to collaborate on cybersecurity projects, share knowledge, an
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0072b1?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syed-muddassir--)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:muddsi94@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/MuddsiSyed)
 
 </div>
