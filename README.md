@@ -101,9 +101,7 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 </div>
 
 **🎯 Currently Pursuing:**
-- AWS Certified Security - Specialty
-- GCIH (GIAC Certified Incident Handler)
-- CEH (Certified Ethical Hacker)
+- CTIA (Cyber Threat Intelligence Analyst)
 
 ---
 
