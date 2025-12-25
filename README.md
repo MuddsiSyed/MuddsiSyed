@@ -198,7 +198,7 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 - **Threat Intelligence**: Automated daily collection (AlienVault OTX, URLhaus, Emerging Threats, PhishTank, Malware Domain List)
 - **Detection Engineering**: 13 validated queries with MITRE technique attribution
 - **Attack Validation**: Controlled penetration testing + Atomic Red Team framework
-- **Infrastructure**: AWS (GuardDuty, Security Hub, CloudTrail, Config, EC2)
+- **Infrastructure**: AWS
 - **Automation**: Python scripts for threat intel collection and incident response
 
 **Demonstrated Capabilities:**
@@ -210,7 +210,7 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 **27-Minute Technical Demonstration:** Live attack execution, detection validation, and quantified results
 
-**Technologies:** `Splunk Enterprise` `AWS Security` `Python` `MITRE ATT&CK` `Atomic Red Team` `Kali Linux` `Active Directory` `Sysmon` `SQLite`
+**Technologies:** `Splunk Enterprise` `AWS` `Python` `MITRE ATT&CK` `Atomic Red Team` `Kali Linux` `Active Directory` `Sysmon` `SQLite`
 
 ---
 
