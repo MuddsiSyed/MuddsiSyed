@@ -1,12 +1,13 @@
-# 🛡️ Syed Muddassir | Cybersecurity Analyst
+# Syed Muddassir | Cybersecurity Analyst
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muddassir--)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuddsiSyed)
-[![Email](https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@threathunteracademy)
+[![Email](https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:muddsi94@gmail.com)
 
-*Passionate Cybersecurity Professional | SOC Specialist | Threat Hunter*
+*Cybersecurity Professional | SOC Analyst | Threat Hunter | Detection Engineer*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuddsiSyed&color=blue&style=flat-square)
 
@@ -14,18 +15,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Welcome to my cybersecurity portfolio! I'm **Syed Muddassir**, a dedicated cybersecurity analyst specializing in **Security Operations Center (SOC)** operations with expertise in threat detection, incident response, and security automation. 
+Welcome to my cybersecurity portfolio! I'm **Syed Muddassir**, a dedicated cybersecurity analyst with **3+ years of experience** specializing in **Security Operations Center (SOC)** operations, **threat hunting**, and **detection engineering**. 
 
-🔍 **Current Focus**: Advanced threat hunting, SIEM optimization, and security automation  
-🎯 **Specialization**: SOC Operations, Incident Response, Threat Intelligence  
-🌱 **Learning**: Cloud Security, Zero Trust Architecture, AI/ML in Cybersecurity  
-💼 **Experience**: 3+ years in cybersecurity operations and threat analysis
+**Current Focus**: Advanced threat hunting, SIEM optimization, and security automation  
+**Specialization**: SOC Operations, Threat Intelligence, Detection Engineering  
+**Learning**: Cloud Security, Zero Trust Architecture, AI Security & Threat Modeling  
+**Experience**: 3+ years in cybersecurity operations and threat analysis  
+**Certifications**: EC-Council CTIA, Qualys VM, ArcX CTI 101, SIEMXpert SOC Expert
 
 ---
 
-## 🎯 Professional Objective
+## Professional Objective
 
 As a cybersecurity professional specializing in Security Operations Center (SOC) operations, I leverage my expertise in **SIEM implementation**, **threat detection**, **incident response**, and **security automation** to protect organizational assets and enhance security posture.
 
@@ -33,44 +35,36 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
-### 🔍 SIEM & Analytics
+### SIEM & Analytics
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-QRadar-0F4C3A?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
-### 🤖 SOAR & Automation
+### SOAR & Automation
 <div>
     <img src="https://img.shields.io/badge/-Cortex_XSOAR-FF6F20?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Phantom-4B275F?&style=for-the-badge&logo=Phantom&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python_Automation-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
-### 🖥️ Endpoint Security
+### Endpoint Security
 <div>
     <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-E01F3D?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Carbon_Black-000000?&style=for-the-badge&logo=VMware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### 🔍 Vulnerability Management
+### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Nessus-4CBBF3?&style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-3F7C47?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
 </div>
 
-### ☁️ Cloud Security
+### Cloud Security
 <div>
     <img src="https://img.shields.io/badge/-AWS_Security-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Sentinel-0089D0?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CloudTrail-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 </div>
 
-### 🔧 Additional Tools
+### Additional Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-0077C0?&style=for-the-badge&logo=Metasploit&logoColor=white" />
@@ -80,34 +74,147 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 ---
 
-## 🏆 Certifications & Training
+## Certifications & Professional Development
 
-<div>
-    <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
-</div>
+### Industry Certifications
 
-<div style="margin: 10px 0;">
-    <a href="https://arcx.io" target="_blank">
-        <img src="https://media.arcx.io/images/products/CTI101.png" alt="ArcX Logo" style="height: 30px; vertical-align: middle;"/>
-        <img src="https://img.shields.io/badge/ArcX_Cyber_Threat_Intelligence_101-blueviolet?&style=for-the-badge" alt="ArcX CTI 101" style="vertical-align: middle;"/>
-    </a>
-</div>
+<details open>
+<summary><b>🔴 EC-Council Certified Threat Intelligence Analyst (CTIA v2)</b></summary>
+<br>
 
-<div style="margin: 10px 0;">
-    <a href="https://www.siemxpert.com" target="_blank">
-        <img src="https://www.siemxpert.com/img/logo/logo.webp" alt="SIEMXpert Logo" style="height: 40px; vertical-align: middle;"/>
-        <img src="https://img.shields.io/badge/Certified_SOC_Expert-000000?&style=for-the-badge&logoColor=white" alt="Certified SOC Expert" style="vertical-align: middle;"/>
-    </a>
-</div>
+**Issuing Organization:** EC-Council  
+**Credential ID:** 302-3002197485  
+**Issue Date:** December 2025  
+**Expiration:** January 2027  
 
-**🎯 Currently Pursuing:**
-- CTIA (Cyber Threat Intelligence Analyst)
+**Skills Validated:**
+- Cyber Threat Intelligence (CTI)
+- Cyber Threat Hunting (CTH)
+- Threat Modeling
+- Indicator of Compromise (IOC) Analysis
+- Malware Reverse Engineering (MRE)
+- Threat Intelligence Reporting
+
+**Verification:** [Verify at EC-Council](https://aspen.eccouncil.org/Verify)
+
+---
+</details>
+
+<details>
+<summary><b>🟣 Stripe Certified Associate Architect</b></summary>
+<br>
+
+**Issuing Organization:** Stripe  
+**Credential ID:** 1XX29X62X3  
+**Issue Date:** July 2025  
+**Expiration:** July 2027  
+
+**Skills Validated:**
+- Payment Architecture
+- API Integration
+- Security & Compliance
+- PCI-DSS Standards
+
+---
+</details>
+
+<details>
+<summary><b>🔴 Qualys Certified Specialist - Vulnerability Management Detection and Response</b></summary>
+<br>
+
+**Issuing Organization:** Qualys  
+**Issue Date:** September 2024  
+**Expires:** December 2026  
+
+**Skills Validated:**
+- Vulnerability Detection & Response
+- Threat & Vulnerability Management
+- Security Scanning & Assessment
+- Vulnerability Assessment
+
+---
+</details>
+
+<details>
+<summary><b>⚫ SIEMXpert Certified SOC Analyst</b></summary>
+<br>
+
+**Issuing Organization:** SIEMXpert  
+**Issue Date:** October 2024  
+
+**Skills Validated:**
+- Incident Response
+- Security Information & Event Management (SIEM)
+- Splunk Operations
+- Security Operations Center (SOC)
+
+---
+</details>
+
+### 📚 Professional Training & Courses
+
+| Training Program | Provider | Completion | Key Skills |
+|-----------------|----------|------------|------------|
+| **Cyber Threat Intelligence 101** | ArcX | April 2025 | CTI Fundamentals, OSINT |
+| **Threat Intelligence Lifecycle** | IBM | April 2025 | Intelligence Operations |
+| **Foundation Level Threat Intelligence** | Coursera | December 2024 | Threat Hunting, CTI, Vulnerability Management |
+| **Crash Course on Python** | Google | April 2025 | Python Programming |
+| **Career Essentials in Generative AI** | Microsoft & LinkedIn | September 2024 | AI, Generative AI, Ethics |
 
 ---
 
-## 🚀 Featured Projects
+### 🎯 Consolidated Skill Portfolio
 
-### 🏗️ [Splunk Clustered Architecture on AWS](https://github.com/MuddsiSyed/Splunk-Clustered-Architecture-for-Threat-Detection-and-Response/tree/main)
+**Core Competencies Validated Through Certifications:**
+
+🔍 **Threat Intelligence**: CTI Lifecycle, OSINT, IOC Analysis, Threat Modeling, Attribution  
+🛡️ **Security Operations**: SIEM, Incident Response, Security Event Management, SOC Operations  
+🔧 **Vulnerability Management**: Scanning, Assessment, Detection, Response  
+💻 **Technical Skills**: Python Automation, API Integration, Malware Analysis  
+☁️ **Specialized**: Payment Security (PCI-DSS), Cloud Architecture, AI/ML Applications  
+
+---
+
+## Featured Projects
+
+### [Advanced Threat Hunting & Intelligence Operations Platform](https://github.com/MuddsiSyed/Advanced-Threat-Hunting-Platform)
+**Enterprise-Grade Threat Detection with Real-World Validation**
+
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=g03nJT4n1ug)
+[![View Docs](https://img.shields.io/badge/📖_Documentation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuddsiSyed/Advanced-Threat-Hunting-Intelligence-Operations-Platform)
+
+ **Overview**: Threat hunting platform demonstrating enterprise-level capabilities with automated threat intelligence collection, real-time correlation, and industry-standard validation.
+
+**Key Achievements:**
+- ✅ **60,000+ Threat Indicators** - Automated collection from 5 OSINT sources
+- ✅ **100% Detection Rate** - Validated across 142+ attack events with 0% false positives
+- ✅ **MITRE ATT&CK Integration** - 24 techniques mapped, 5 validated via Atomic Red Team
+- ✅ **Real-time Correlation** - Multi-index correlation engine (<1 second latency)
+- ✅ **Live Attack Validation** - Kali Linux + Atomic Red Team framework testing
+- ✅ **Professional Documentation** - 13 validated threat hunting queries
+
+**Technical Implementation:**
+- **SIEM Platform**: Splunk Enterprise with custom correlation rules
+- **Threat Intelligence**: Automated daily collection (AlienVault OTX, URLhaus, Emerging Threats, PhishTank, Malware Domain List)
+- **Detection Engineering**: 13 validated queries with MITRE technique attribution
+- **Attack Validation**: Controlled penetration testing + Atomic Red Team framework
+- **Infrastructure**: AWS (GuardDuty, Security Hub, CloudTrail, Config, EC2)
+- **Automation**: Python scripts for threat intel collection and incident response
+
+**Demonstrated Capabilities:**
+- Multi-index correlation (Endpoint + CTI + MITRE ATT&CK)
+- Real-time IOC detection and attribution
+- Automated incident response workflows
+- Professional query library with validation methodology
+- Enterprise Active Directory monitoring with Sysmon
+
+**27-Minute Technical Demonstration:** Live attack execution, detection validation, and quantified results
+
+**Technologies:** `Splunk Enterprise` `AWS Security` `Python` `MITRE ATT&CK` `Atomic Red Team` `Kali Linux` `Active Directory` `Sysmon` `SQLite`
+
+---
+
+### [Splunk Clustered Architecture on AWS](https://github.com/MuddsiSyed/Splunk-Clustered-Architecture-for-Threat-Detection-and-Response/tree/main)
 **Enterprise-Grade Security Monitoring Solution**
 
 🔍 **Overview**: Designed and implemented a scalable Splunk clustered architecture on AWS for comprehensive security monitoring and threat detection.
@@ -123,8 +230,8 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 ---
 
-### 🏢 [Active Directory Security Project](https://github.com/MuddsiSyed/Active-Directory-Project)
-**Enterprise Identity & Access Management Lab**
+### [Active Directory Security Project](https://github.com/MuddsiSyed/Active-Directory-Project)
+**Identity & Access Management Lab**
 
 🔍 **Overview**: Comprehensive Active Directory environment with integrated security monitoring and threat simulation.
 
@@ -139,37 +246,20 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 ---
 
-### 🔒 [SOC Automation Toolkit](https://github.com/MuddsiSyed/SOC-Automation-Toolkit)
-*Coming Soon - Work in Progress*
-
-**Automated Incident Response & Threat Hunting**
-
-🔍 **Overview**: Collection of Python scripts and tools for automating common SOC tasks and enhancing incident response capabilities.
-
-**Planned Features:**
-- Automated threat intelligence gathering
-- MITRE ATT&CK mapping for incidents
-- Email security analysis tools
-- IOC extraction and enrichment
-- Integration with multiple SIEM platforms
-
----
-
-
-## 🎯 Core Competencies
+## Core Competencies
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**🔍 Security Operations**
+**Security Operations**
 - SIEM Implementation & Management
 - Threat Detection & Analysis
 - Incident Response & Forensics
 - Security Event Correlation
 - Log Analysis & Parsing
 
-**🤖 Automation & Orchestration**
+**Automation & Orchestration**
 - SOAR Platform Management
 - Python Security Scripting
 - Workflow Automation
@@ -179,14 +269,14 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 </td>
 <td valign="top" width="50%">
 
-**☁️ Cloud Security**
+**Cloud Security**
 - AWS Security Architecture
 - Cloud SIEM Implementation
 - Container Security
 - Infrastructure as Code (IaC)
 - Cloud Compliance & Governance
 
-**🛡️ Threat Intelligence**
+**Threat Intelligence**
 - IOC Analysis & Correlation
 - MITRE ATT&CK Framework
 - Threat Hunting Methodologies
@@ -199,19 +289,21 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 ---
 
-## 📈 Recent Activity
+## Recent Activity
 
 🔥 **Current Focus Areas:**
-- Developing advanced Splunk correlation rules for APT detection
-- Building threat hunting queries for cloud environments
-- Automating incident response workflows with Python
-- Contributing to open-source security tools
+- Advanced threat hunting platform with 60K+ threat indicators
+- MITRE ATT&CK framework implementation and validation
+- Detection engineering with Atomic Red Team
+- Cloud-native security monitoring with AWS
+- Threat intelligence automation with Python
 
-💡 **Latest Learning:**
-- Advanced threat hunting techniques
-- Cloud-native security architectures
-- Machine learning applications in cybersecurity
-- Zero Trust security model implementation
+💡 **Latest Achievements:**
+- Built enterprise threat hunting platform (100% detection rate, 0% FP)
+- Validated 5 MITRE ATT&CK techniques via Atomic Red Team
+- Automated daily collection of 60,000+ threat indicators
+- Created professional query library (13 validated detections)
+- Published 27-minute technical demonstration on YouTube
 
 ---
 
@@ -231,6 +323,7 @@ I'm always excited to collaborate on cybersecurity projects, share knowledge, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0072b1?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syed-muddassir--)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:muddsi94@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/MuddsiSyed)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@threathunteracademy)
 
 </div>
 
