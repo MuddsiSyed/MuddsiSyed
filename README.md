@@ -151,7 +151,7 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 ---
 </details>
 
-### 📚 Professional Training & Courses
+###  Professional Training & Courses
 
 | Training Program | Provider | Completion | Key Skills |
 |-----------------|----------|------------|------------|
@@ -163,7 +163,7 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 ---
 
-### 🎯 Consolidated Skill Portfolio
+###  Consolidated Skill Portfolio
 
 **Core Competencies Validated Through Certifications:**
 
@@ -186,12 +186,12 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
  **Overview**: Threat hunting platform demonstrating enterprise-level capabilities with automated threat intelligence collection, real-time correlation, and industry-standard validation.
 
 **Key Achievements:**
-- ✅ **60,000+ Threat Indicators** - Automated collection from 5 OSINT sources
-- ✅ **100% Detection Rate** - Validated across 142+ attack events with 0% false positives
-- ✅ **MITRE ATT&CK Integration** - 24 techniques mapped, 5 validated via Atomic Red Team
-- ✅ **Real-time Correlation** - Multi-index correlation engine (<1 second latency)
-- ✅ **Live Attack Validation** - Kali Linux + Atomic Red Team framework testing
-- ✅ **Professional Documentation** - 13 validated threat hunting queries
+-  **60,000+ Threat Indicators** - Automated collection from 5 OSINT sources
+-  **100% Detection Rate** - Validated across 142+ attack events with 0% false positives
+-  **MITRE ATT&CK Integration** - 24 techniques mapped, 5 validated via Atomic Red Team
+-  **Real-time Correlation** - Multi-index correlation engine (<1 second latency)
+-  **Live Attack Validation** - Kali Linux + Atomic Red Team framework testing
+-  **Professional Documentation** - 13 validated threat hunting queries
 
 **Technical Implementation:**
 - **SIEM Platform**: Splunk Enterprise with custom correlation rules
