@@ -183,7 +183,7 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 [![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=g03nJT4n1ug)
 [![View Docs](https://img.shields.io/badge/📖_Documentation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuddsiSyed/Advanced-Threat-Hunting-Intelligence-Operations-Platform)
 
- **Overview**: Threat hunting platform demonstrating enterprise-level capabilities with automated threat intelligence collection, real-time correlation, and industry-standard validation.
+ **Overview**: Threat hunting platform demonstrating automated threat intelligence collection, real-time correlation, and industry-standard validation.
 
 **Key Achievements:**
 -  **60,000+ Threat Indicators** - Automated collection from 5 OSINT sources
@@ -206,7 +206,7 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 - Real-time IOC detection and attribution
 - Automated incident response workflows
 - Professional query library with validation methodology
-- Enterprise Active Directory monitoring with Sysmon
+- Active Directory monitoring with Sysmon
 
 **27-Minute Technical Demonstration:** Live attack execution, detection validation, and quantified results
 
