@@ -177,7 +177,7 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 ## Featured Projects
 
-### [Advanced Threat Hunting & Intelligence Operations Platform](https://github.com/MuddsiSyed/Advanced-Threat-Hunting-Platform)
+### [Advanced Threat Hunting & Intelligence Operations Platform](https://github.com/MuddsiSyed/Advanced-Threat-Hunting-Intelligence-Operations-Platform)
 **Threat Detection with Real-World Validation**
 
 [![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=g03nJT4n1ug)
