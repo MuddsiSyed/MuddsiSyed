@@ -177,21 +177,59 @@ As a cybersecurity professional specializing in Security Operations Center (SOC)
 
 ## Featured Projects
 
+### [Agentic AI SOC Automation Platform](https://github.com/MuddsiSyed/Agentic-AI-SOC-Automation)
+**Multi-Agent Security Operations with Human-in-the-Loop Control**
+
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=SCeS6pYJG-I)
+[![View Docs](https://img.shields.io/badge/📖_Documentation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuddsiSyed/Agentic-AI-SOC-Automation)
+
+🤖 **Overview**: Agentic AI system that automates security incident response from detection to containment in under 2 minutes while maintaining analyst approval control.
+
+**Key Achievements:**
+- ⚡ **90% MTTR Reduction** - From 30 minutes to <2 minutes (30s AI investigation + 60s approval + 30s execution)
+- 🤖 **4-Agent Architecture** - Specialized agents for triage, investigation, response orchestration, and documentation
+- 🎯 **100% Detection Rate** - Validated against Atomic Red Team simulations with complete session revocation
+- 🔐 **Human-in-the-Loop Design** - AI investigates autonomously, analysts maintain approval authority
+- 📊 **70,000+ IOC Correlation** - Real-time threat intelligence from VirusTotal, AbuseIPDB, and custom CTI database
+- 🛡️ **Automated Response Execution** - AWS Security Group IP blocking + Active Directory account management
+
+**Technical Implementation:**
+- **Workflow Orchestration**: n8n (self-hosted, Docker) with multi-agent pipeline routing
+- **AI/LLM**: Groq API with Llama 3.3 70B model for autonomous decision-making
+- **SIEM Integration**: Splunk Enterprise with automated SPL query execution
+- **Response Automation**: Python Flask API (boto3 for AWS, pywinrm for Active Directory)
+- **Threat Intelligence**: Multi-source aggregation with weighted confidence scoring
+- **Approval Workflow**: Interactive Slack notifications with complete incident context
+- **MITRE Framework**: 835 techniques integrated from official ATT&CK dataset
+
+**Demonstrated Capabilities:**
+- Autonomous tool use (Splunk queries, API calls, database correlation)
+- Contextual decision-making based on threat intelligence and attack patterns
+- Real-world action execution (IP blocking, account disabling, session termination)
+- Multi-step reasoning chains across specialized agents
+- Complete audit trail generation with NIST-compliant documentation
+
+**10-Minute Technical Demonstration:** Live brute force attack simulation showing end-to-end automated response with human approval
+
+**Technologies:** `n8n` `Groq API` `Splunk` `Python` `boto3` `pywinrm` `AWS` `Active Directory` `Docker` `Slack API` `VirusTotal` `AbuseIPDB`
+
+---
+
 ### [Advanced Threat Hunting & Intelligence Operations Platform](https://github.com/MuddsiSyed/Advanced-Threat-Hunting-Intelligence-Operations-Platform)
 **Threat Detection with Real-World Validation**
 
 [![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=g03nJT4n1ug)
 [![View Docs](https://img.shields.io/badge/📖_Documentation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuddsiSyed/Advanced-Threat-Hunting-Intelligence-Operations-Platform)
 
- **Overview**: Threat hunting platform demonstrating automated threat intelligence collection, real-time correlation, and industry-standard validation.
+🔍 **Overview**: Threat hunting platform demonstrating automated threat intelligence collection, real-time correlation, and industry-standard validation.
 
 **Key Achievements:**
--  **60,000+ Threat Indicators** - Automated collection from 5 OSINT sources
--  **100% Detection Rate** - Validated across 142+ attack events with 0% false positives
--  **MITRE ATT&CK Integration** - 24 techniques mapped, 5 validated via Atomic Red Team
--  **Real-time Correlation** - Multi-index correlation engine (<1 second latency)
--  **Live Attack Validation** - Kali Linux + Atomic Red Team framework testing
--  **Professional Documentation** - 13 validated threat hunting queries
+- 📊 **60,000+ Threat Indicators** - Automated collection from 5 OSINT sources
+- 🎯 **100% Detection Rate** - Validated across 142+ attack events with 0% false positives
+- 🗺️ **MITRE ATT&CK Integration** - 24 techniques mapped, 5 validated via Atomic Red Team
+- ⚡ **Real-time Correlation** - Multi-index correlation engine (<1 second latency)
+- 🔴 **Live Attack Validation** - Kali Linux + Atomic Red Team framework testing
+- 📚 **Professional Documentation** - 13 validated threat hunting queries
 
 **Technical Implementation:**
 - **SIEM Platform**: Splunk Enterprise with custom correlation rules
